@@ -1,0 +1,6 @@
+#Organize Import Order
+#SoaringCats (https://github.com/soaringcats : http://dev.nekotech.tk)
+3=com
+2=org
+1=javax
+0=java
